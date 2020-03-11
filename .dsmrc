@@ -1,0 +1,7 @@
+{
+    "authToken": "Bkbkvci4L",
+    "dsmHost": "ideansweden.invisionapp.com",
+    "organization": "idean-sweden",
+    "outputDir": ".dsm",
+    "storyPath": "src/stories/**/*.stories.ts"
+}
